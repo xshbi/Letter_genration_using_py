@@ -3,7 +3,7 @@ from docx.shared import Pt
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
 # Open the love letter template
-doc = Document('templates/love_letter_template.docx')
+doc = Document('Templates/Brown Aesthetic Vintage Thank You Letter.docx')
 
 # Access the first paragraph (assuming placeholder is in the first paragraph)
 paragraph = doc.paragraphs[0]
