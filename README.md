@@ -2,7 +2,7 @@
 
 ```markdown
 <p align="center">
-  <img src="https://your-website.com/love-letter-icon.png" alt="Love Letter Icon" width="200" height="200">
+  <img src="https://img.icons8.com/?size=100&id=K9Z5RhmFxXlH&format=png&color=000000" alt="Love Letter Icon" width="200" height="200">
 </p>
 
 <h1 align="center">Love Letter Generator</h1>
